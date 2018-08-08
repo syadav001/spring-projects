@@ -21,7 +21,7 @@ database scripts are present in "database-scripts" folder.
 
 ------------------------------------------------------------------------------------------------------------------
 version:1 This application
-version:2 will contain login page using spring security,UI will be better,CRUD using spring boot.
+version:2 will contain login page using spring security,UI will be better,CRUD using spring boot,junits,connection to jenkins tool.
 
 ------------------------------------------------------------------------------------------------------------------
 
